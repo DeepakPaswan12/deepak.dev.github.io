@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deepak.dev.github.io/static/css/main.c8273c31.css",
+    "main.js": "/deepak.dev.github.io/static/js/main.6f8c1235.js",
+    "static/js/453.ace21015.chunk.js": "/deepak.dev.github.io/static/js/453.ace21015.chunk.js",
+    "static/media/about.png": "/deepak.dev.github.io/static/media/about.61d6561781541cc8ba53.png",
+    "static/media/home-main.svg": "/deepak.dev.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-bg.jpg": "/deepak.dev.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/deepak.dev.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/deepak.dev.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/deepak.dev.github.io/index.html",
+    "main.c8273c31.css.map": "/deepak.dev.github.io/static/css/main.c8273c31.css.map",
+    "main.6f8c1235.js.map": "/deepak.dev.github.io/static/js/main.6f8c1235.js.map",
+    "453.ace21015.chunk.js.map": "/deepak.dev.github.io/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8273c31.css",
+    "static/js/main.6f8c1235.js"
+  ]
+}
